@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from Poland</h3>
 
 - 🌱 I’m currently learning **React and Express.js**
 
