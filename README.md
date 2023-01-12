@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrzuxii" alt="mrzuxii" /></a> </p>
-
 - 🌱 I’m currently learning **React and Express.js**
 
 - 👨‍💻 All of my projects are available at [https://www.kamilbieniek.pl/](https://www.kamilbieniek.pl/)
